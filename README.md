@@ -1,5 +1,11 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Ojas Gujar
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+### I am a self motivated and hardworking guy who has keen interest in Machine Learning, Deep Learning and Data Analysis. I am a quick learner and I love to explore new opportunities.  
+
+   <H5>
+ Find me on:  </H5>  
+
+
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn] 
 
 
 ### My Tech Toolbox 🧰
@@ -18,6 +24,21 @@
 
 [linkedin]: https://www.linkedin.com/in/ojasg1/
 
+                                                                                                                                                  
+### Some interesting facts about me!
+  
+- ✍️ I am currently pursuing my Graduation Degree in Bachelors of Computer Applications.
+  
+- 💻 I’m a Data Science Enthusiast and I am working on projects related to it.
+
+- ☀️ Learning and Developing Machine Learning based projects in Python.
+
+- 👯 I love experimenting with new technologies and building small projects.
+
+- 🔭 Hobby : Badminton, Reading, Gaming.
+
+- 📫 How to reach me: gujarojas36@gmail.com
+                                                                                                                                                  
 <!-- - 🌱 I’m currently learning Deep learning algorithms like RNN, CNN. -->
 
 
