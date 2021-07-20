@@ -33,7 +33,7 @@
                                                                                                                                                   
 ### Some interesting facts about me!
   
-- ✍️ I am currently pursuing my Graduation Degree in Bachelors of Computer Applications.
+- ✍️ I am currently pursuing my Bachelor degree in Computer Applications.
   
 - 💻 I’m a Data Science Enthusiast and I am working on projects related to it.
 
